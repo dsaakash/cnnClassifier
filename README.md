@@ -41,7 +41,7 @@
     - install all libraries which updated in requirements.txt by using command
 
 
-  # pip install -r  requirements.txt
+    -pip install -r  requirements.txt
 
 
 # After that in src/utils

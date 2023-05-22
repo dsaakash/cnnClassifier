@@ -32,13 +32,13 @@
 
 # Create an Virtual Enviroment by using below command:
 
- - conda create -n cnncls python=3.8  -y
- - conda activate cnncls
+    - conda create -n cnncls python=3.8  -y
+    - conda activate cnncls
 
 
- - then updated Requirements.txt 
+    - then updated Requirements.txt 
 
- - install all libraries which updated in requirements.txt by using command
+    - install all libraries which updated in requirements.txt by using command
 
 
   # pip install -r  requirements.txt

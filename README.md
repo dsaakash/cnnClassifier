@@ -21,10 +21,27 @@
 
 # step by step we have created directory structure 
 
-- by createing workflow iof f\directory strure in template.py
-- Afther that you have to run  python template.py
+- by createing workflow iof directory strure in template.py
+- After that you have to run  python template.py
 
 -  will create directory structure for project
+
+
+# Diagram of folder Structure
+
+
+# Create an Virtual Enviroment by using below command:
+
+ - conda create -n cnncls python=3.8  -y
+ - conda activate cnncls
+
+
+ - then updated Requirements.txt 
+
+ - install all libraries which updated in requirements.txt by using command
+
+
+  # pip install -r  requirements.txt
 
 
 

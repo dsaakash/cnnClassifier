@@ -102,7 +102,8 @@ prepare_base_model:
 
           to see tensor board in locahost:
          <b>command: tensorboard --logdir=artifacts/prepare_callbacks/tensorboard_log_dir/  </b>
-- Stage 5 Creating Model
+- Stage 5 Training a Model
+- Stage 6: Evaluating an Model
 
 
 

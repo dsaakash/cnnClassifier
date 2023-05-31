@@ -85,7 +85,7 @@
         - Update  config_entity.py
 
 
-- Stage 2 We have  Prepared   an Base Model
+- Stage 2 We have  Prepared   an Base Model in research to test and preparing an basemodel called st_02.ipynb
     - Added paremeters in params.yaml
     - updated config.yaml 
     - BY adding code prepare base_model

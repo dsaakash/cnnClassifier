@@ -77,3 +77,27 @@
     - 8 Update main.py
 
 
+- in this we are creating another py file called data_ingestion.py
+- created another py file in entity called config_entity.py
+
+- We have completed  Stage 1 Data Ingestion Part
+        - Updated Data Ingestion in components
+        - Update  config_entity.py
+
+
+- Stage 2 We have  Prepared   an Base Model
+    - Added paremeters in params.yaml
+    - updated config.yaml 
+    - BY adding code prepare base_model
+- Code"
+prepare_base_model:
+   root_dir: artifacts/prepare_base_model
+   base_model_path: artifacts/prepare_base_model/base_model.h5
+   updated_base_model_path: artifacts/prepare_base_model/base_model_updated.h5
+
+
+
+
+
+
+

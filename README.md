@@ -95,6 +95,9 @@ prepare_base_model:
    base_model_path: artifacts/prepare_base_model/base_model.h5
    updated_base_model_path: artifacts/prepare_base_model/base_model_updated.h5
 
+- Stage 3 Creating an callbacks 
+
+
 
 
 

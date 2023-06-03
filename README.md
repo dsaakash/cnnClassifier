@@ -105,6 +105,10 @@ prepare_base_model:
 - Stage 5 Training a Model
 - Stage 6: Evaluating an Model
 
+# UI and Prediction:
+        - Updates app.py
+        - Created templates/index.html Added UI components
+
 
 
 
